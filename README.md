@@ -37,13 +37,10 @@ src="https://img.shields.io/twitter/follow/alx_mrcrr?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/sen-Saptarshi"><img src="https://github-readme-stats.vercel.app/api?username=sen-Saptarshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sen-Saptarshi's GitHub stats" /></a>
 
-<a href="https://github.com/sen-Saptarshi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sen-Saptarshi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sen-Saptarshi/MERN-Pay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=MERN-Pay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sen-Saptarshi/oXoChat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=oXoChat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sen-Saptarshi/MERN-Pay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=MERN-Pay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sen-Saptarshi/oXoChat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=oXoChat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br />
 
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/sen-Saptarshi/womenSafetyAnalytics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=womenSafetyAnalytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sen-Saptarshi/error404-hackfest24" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-Saptarshi&repo=error404-hackfest24&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
