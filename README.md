@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.saptarshi.online](https://www.saptarshi.online)
 
-- 📝 I regularly write articles on [https://blogs.saptarshi.online](https://blogs.saptarshi.online)
+- 📝 I regularly write articles on [https://sen-saptarshi.github.io/bloggr-md/](bloggr-md)
 
 - 💬 Ask me about **node runtime, cloudflare workers, docker, scaling web apps**
 
