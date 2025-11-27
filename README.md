@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saptarshi Sen
 
-### Full-Stack Developer | Web3 Enthusiast | Open Source Contributor
+### Metallurgical Engineer | Full-Stack Developer | ML Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=sen-saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
