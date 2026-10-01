@@ -16,9 +16,9 @@
 ---
 
 ## About Me
-- Building **[CollabDraw](https://github.com/sen-Saptarshi/collabdraw)** – collaborative drawing platform
-- Learning **Solana** & **ETH**
-- Open to collab on **[AI Interview](https://github.com/sen-Saptarshi/ai-interview)**
+- Building **[Draw-board](https://github.com/sen-Saptarshi/draw-board)** – collaborative drawing platform
+- Learning **AI**
+- Open to collab on **[AI Interview](https://github.com/sen-Saptarshi/ai-interview)** **[Zaap](https://github.com/sen-Saptarshi/zaap)** 
 - Ask me about Node.js, Cloudflare Workers, Docker, scaling
 
 ## Tech Stack
